@@ -6,7 +6,9 @@ namespace Non_GenericCollection
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Implementaion of non -generic collection");
+            ArrayListDemo arrayList = new ArrayListDemo();
+            arrayList.ArrayListExample();
         }
     }
 }
