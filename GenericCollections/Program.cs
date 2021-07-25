@@ -9,9 +9,13 @@ namespace GenericCollections
            /* Console.WriteLine("Implementaion of list!");
             ListDemo listDemo = new ListDemo();
             listDemo.ListExample();*/
-            Console.WriteLine("Implementaion of Dictionary!");
+          /*  
             DictionaryDemo dicDemo = new DictionaryDemo();
-            dicDemo.DictionaryExample();
+            dicDemo.DictionaryExample();*/
+            Console.WriteLine("Implementaion of Stack!");
+            StackDemo stackDemo = new StackDemo();
+            stackDemo.StackExample();
+
 
 
         }
