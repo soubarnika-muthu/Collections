@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace Collections
+namespace GenericCollections
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Implementaion of list!");
+            ListDemo listDemo = new ListDemo();
+            listDemo.ListExample();
+
         }
     }
 }
