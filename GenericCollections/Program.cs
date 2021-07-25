@@ -6,9 +6,13 @@ namespace GenericCollections
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Implementaion of list!");
+           /* Console.WriteLine("Implementaion of list!");
             ListDemo listDemo = new ListDemo();
-            listDemo.ListExample();
+            listDemo.ListExample();*/
+            Console.WriteLine("Implementaion of Dictionary!");
+            DictionaryDemo dicDemo = new DictionaryDemo();
+            dicDemo.DictionaryExample();
+
 
         }
     }

@@ -12,7 +12,10 @@ namespace GenericCollections
         public string Name { get; set; }
         public string Address  { get; set; }
         public long PhoneNo { get; set; }
-      
+      public Person()
+        {
+
+        }
         public Person (string name, string address,long phoneno)
         {
             this.Name = name;
