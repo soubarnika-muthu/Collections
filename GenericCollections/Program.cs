@@ -8,13 +8,16 @@ namespace GenericCollections
         {
            /* Console.WriteLine("Implementaion of list!");
             ListDemo listDemo = new ListDemo();
-            listDemo.ListExample();*/
-          /*  
+            listDemo.ListExample();
+          
             DictionaryDemo dicDemo = new DictionaryDemo();
-            dicDemo.DictionaryExample();*/
+            dicDemo.DictionaryExample();
             Console.WriteLine("Implementaion of Stack!");
             StackDemo stackDemo = new StackDemo();
-            stackDemo.StackExample();
+            stackDemo.StackExample();*/
+            Console.WriteLine("Implementaion of Queue!");
+            QueueDemo queueDemo = new QueueDemo();
+            queueDemo.QueueExample();
 
 
 
